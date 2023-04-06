@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 <!-- ![Screenshot_1](https://user-images.githubusercontent.com/99737165/230455497-2d028d87-e9d9-4224-8ad0-48b892566759.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/99737165/230455061-1b470e51-8112-4c7d-8c51-8b843ad2bffe.png)
 ![Screenshot_4](https://user-images.githubusercontent.com/99737165/230455449-c641877d-46b0-4683-a2a1-424eea41f4c8.png) -->
@@ -16,7 +16,7 @@
 ### How to reach me: Tgrm.@https://t.me/mirabror_fayzullayev
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-![Hackerrank](!https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
