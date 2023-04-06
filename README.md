@@ -1,18 +1,18 @@
 ### Hi there 👋
-![Screenshot_1](https://user-images.githubusercontent.com/99737165/230455497-2d028d87-e9d9-4224-8ad0-48b892566759.png)
+<!-- ![Screenshot_1](https://user-images.githubusercontent.com/99737165/230455497-2d028d87-e9d9-4224-8ad0-48b892566759.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/99737165/230455061-1b470e51-8112-4c7d-8c51-8b843ad2bffe.png)
-![Screenshot_4](https://user-images.githubusercontent.com/99737165/230455449-c641877d-46b0-4683-a2a1-424eea41f4c8.png)
+![Screenshot_4](https://user-images.githubusercontent.com/99737165/230455449-c641877d-46b0-4683-a2a1-424eea41f4c8.png) -->
+<!-- 
 
-
-**0101mirabror/0101mirabror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**0101mirabror/0101mirabror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on social media project
-- 🌱 I’m currently learning Golang and it's frameworks
+<!-- - 🌱 I’m currently learning Golang and it's frameworks
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about ... -->
 ### How to reach me: Tgrm.@https://t.me/mirabror_fayzullayev
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
