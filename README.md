@@ -8,7 +8,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-### Status 🔭: I’m currently working on Math project
+### Status 🔭: I’m currently working on CRM project
 <!-- - 🌱 I’m currently learning Golang and it's frameworks
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
