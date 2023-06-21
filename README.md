@@ -13,8 +13,7 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-### How to reach me: tgrm![telegram 1024x1024](https://github.com/0101mirabror/0101mirabror/assets/99737165/e052c240-0d4b-44b5-85c9-1d7c5479bc67)
-: `https://t.me/mirabror_fayzullayev`
+### How to reach me: tgrm!: `https://t.me/mirabror_fayzullayev`
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
