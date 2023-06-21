@@ -67,6 +67,6 @@
 ### Guidlines
 ---
 
-|    Guidelines       |                     Link                                               |
-|---------------------|----------------------------------------------------------------|
+|    Guidelines       |                     Link                                                 |
+|---------------------|----------------------------------------------------------------          |
 |      Docker         | https://github.com/0101mirabror/Docker_guideline/tree/master/dockerguide |
