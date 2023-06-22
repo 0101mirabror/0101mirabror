@@ -1,6 +1,6 @@
 <div width=100% style="display:flex;">
      <img width=50% align="center" alt="coding" style="width:500px; height:370px; text-align:center;" src="https://media.tenor.com/zn8iyusePtgAAAAC/joy.gif" />
-    <div width=50%>
+    <div width=45%>
       <ul style="list-style:none;">
            <li><h2> Hi 👋</h2> </li>
             </li><h2> Status 🔭: I’m currently working on CRM project</h2></li>
