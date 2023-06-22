@@ -1,26 +1,34 @@
+<div width=100% style="display:flex;">
+     <img width=50% align="center" alt="coding" style="width:500px; height:370px; text-align:center;" src="https://media.tenor.com/zn8iyusePtgAAAAC/joy.gif" />
+    <div width=50%>
+      <ul style="list-style:none;">
+           <li><h2> Hi 👋</h2> </li>
+            </li><h2> Status 🔭: I’m currently working on CRM project</h2></li>
+            <li><h2> How to reach me: <img src="https://cdn.pixabay.com/photo/2020/10/17/13/21/telegram-5662082_1280.png" style="width:20px; height:20px;">: https://t.me/mirabror_fayzullayev</h2></li>
+      </ul>
+    </div>
+</div>
+
+<!--
 <div width:100%>
 <img width=50% align="center" alt="coding" style="width:500px; height:370px; text-align:center;" src="https://media.tenor.com/zn8iyusePtgAAAAC/joy.gif" />
 <span width=50%>
-### Hi 👋
+### Hi 👋-->
 <!-- ![Screenshot_1](https://user-images.githubusercontent.com/99737165/230455497-2d028d87-e9d9-4224-8ad0-48b892566759.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/99737165/230455061-1b470e51-8112-4c7d-8c51-8b843ad2bffe.png)
 ![Screenshot_4](https://user-images.githubusercontent.com/99737165/230455449-c641877d-46b0-4683-a2a1-424eea41f4c8.png) -->
-<!-- 
-
-**0101mirabror/0101mirabror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
+<!-- **0101mirabror/0101mirabror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- Here are some ideas to get you started: -->
-
-### Status 🔭: I’m currently working on CRM project
+<!--### Status 🔭: I’m currently working on CRM project-->
 <!-- - 🌱 I’m currently learning Golang and it's frameworks
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-### How to reach me: tgrm!: `https://t.me/mirabror_fayzullayev`
+<!-- ### How to reach me: tgrm!: `https://t.me/mirabror_fayzullayev`-->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-</span>
-</div>
+<!-- </span>
+</div>-->
 
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
