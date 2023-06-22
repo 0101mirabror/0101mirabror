@@ -1,4 +1,4 @@
-<div width=100% style="display:inline-block; grid-template-columns: 0.5fr 0.5fr">
+<div width=100% style="display:grid; grid-template-columns: 0.5fr 0.5fr">
      <img  align="center" alt="coding" style=" text-align:center;" src="https://media.tenor.com/zn8iyusePtgAAAAC/joy.gif" />
     <div  style="text-align:left">
       <ul style="list-style:none;">
