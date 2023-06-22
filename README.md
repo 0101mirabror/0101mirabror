@@ -76,4 +76,5 @@
 |---------------------|----------------------------------------------------------------          |
 |      Docker         | https://github.com/0101mirabror/Docker_guideline/tree/master/dockerguide |
 |        Ngrok           |  https://github.com/0101mirabror/Guideline/tree/master/ngrok |
-   <div class="tenor-gif-embed" data-postid="25414590" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/joy-gif-25414590">Joy GIF</a>from <a href="https://tenor.com/search/joy-gifs">Joy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<img align="center" alt="coding" width="100%" src="https://tenor.com/view/joy-gif-25414590" />
