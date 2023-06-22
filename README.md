@@ -1,5 +1,6 @@
+<div width:100%>
 <img width=50% align="center" alt="coding" style="width:500px; height:370px; text-align:center;" src="https://media.tenor.com/zn8iyusePtgAAAAC/joy.gif" />
-
+<span width=50%>
 ### Hi 👋
 <!-- ![Screenshot_1](https://user-images.githubusercontent.com/99737165/230455497-2d028d87-e9d9-4224-8ad0-48b892566759.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/99737165/230455061-1b470e51-8112-4c7d-8c51-8b843ad2bffe.png)
@@ -18,6 +19,8 @@
 ### How to reach me: tgrm!: `https://t.me/mirabror_fayzullayev`
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+</span>
+</div>
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
