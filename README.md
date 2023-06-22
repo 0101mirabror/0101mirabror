@@ -1,10 +1,10 @@
-<div width=100% style="display:flex;">
+<div width=100% style="display:grid; grid-template-columns: 0.5fr 0.5fr">
      <img width=50% align="center" alt="coding" style="width:500px; height:370px; text-align:center;" src="https://media.tenor.com/zn8iyusePtgAAAAC/joy.gif" />
-    <div width=45%>
+    <div width=50% style="text-align:left">
       <ul style="list-style:none;">
            <li><h2> Hi 👋</h2> </li>
             </li><h2> Status 🔭: I’m currently working on CRM project</h2></li>
-            <li><h2> How to reach me: <img src="https://cdn.pixabay.com/photo/2020/10/17/13/21/telegram-5662082_1280.png" style="width:20px; height:20px;">: https://t.me/mirabror_fayzullayev</h2></li>
+            <li><h2> How to reach me: <img src="https://cdn.pixabay.com/photo/2020/10/17/13/21/telegram-5662082_1280.png" style="width:20px; height:20px;">:                          https://t.me/mirabror_fayzullayev</h2></li>
       </ul>
     </div>
 </div>
