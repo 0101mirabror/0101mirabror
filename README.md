@@ -1,5 +1,5 @@
 <div width=100% style="display:grid; grid-template-columns: 0.5fr 0.5fr">
-     <img  align="center" alt="coding" style="width:500px; height:370px; text-align:center;" src="https://media.tenor.com/zn8iyusePtgAAAAC/joy.gif" />
+     <img  align="center" alt="coding" style=" text-align:center;" src="https://media.tenor.com/zn8iyusePtgAAAAC/joy.gif" />
     <div  style="text-align:left">
       <ul style="list-style:none;">
            <li><h4> Hi 👋</h4> </li>
