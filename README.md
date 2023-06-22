@@ -1,3 +1,4 @@
+<img align="center" alt="coding" style="width:500px; height:370px;" src="https://media.tenor.com/zn8iyusePtgAAAAC/joy.gif" />
 ### Hi 👋
 <!-- ![Screenshot_1](https://user-images.githubusercontent.com/99737165/230455497-2d028d87-e9d9-4224-8ad0-48b892566759.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/99737165/230455061-1b470e51-8112-4c7d-8c51-8b843ad2bffe.png)
@@ -77,6 +78,6 @@
 |      Docker         | https://github.com/0101mirabror/Docker_guideline/tree/master/dockerguide |
 |        Ngrok           |  https://github.com/0101mirabror/Guideline/tree/master/ngrok |
 
-<img align="center" alt="coding" style="width:500px; height:370px;" src="https://media.tenor.com/zn8iyusePtgAAAAC/joy.gif" />
+
 <!-- https://media.tenor.com/zn8iyusePtgAAAAC/joy.gif
 [!gif](https://media.tenor.com/zn8iyusePtgAAAAC/joy.gif)-->
