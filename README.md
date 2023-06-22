@@ -2,9 +2,9 @@
      <img  align="center" alt="coding" style="width:500px; height:370px; text-align:center;" src="https://media.tenor.com/zn8iyusePtgAAAAC/joy.gif" />
     <div  style="text-align:left">
       <ul style="list-style:none;">
-           <li><h2> Hi 👋</h2> </li>
-            <li><h2> Status 🔭: I’m currently working on CRM project</h2></li>
-            <li><h2> How to reach me: <img src="https://cdn.pixabay.com/photo/2020/10/17/13/21/telegram-5662082_1280.png" style="width:20px; height:20px;">:                           https://t.me/mirabror_fayzullayev</h2></li>
+           <li><h4> Hi 👋</h4> </li>
+            <li><h4> Status 🔭: I’m currently working on CRM project</h4></li>
+            <li><h4> How to reach me: <img src="https://cdn.pixabay.com/photo/2020/10/17/13/21/telegram-5662082_1280.png" style="width:20px; height:20px;">:                           https://t.me/mirabror_fayzullayev</h4></li>
       </ul>
     </div>
 </div>
