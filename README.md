@@ -68,6 +68,7 @@
 |---------------------|----------------------------------------------------------------          |
 |      Docker         | https://github.com/0101mirabror/Docker_guideline/tree/master/dockerguide |
 |        Ngrok           |  https://github.com/0101mirabror/Guideline/tree/master/ngrok |
+|Django| https://github.com/0101mirabror/Guideline/edit/master/django|
 
 
 <!-- https://media.tenor.com/zn8iyusePtgAAAAC/joy.gif
