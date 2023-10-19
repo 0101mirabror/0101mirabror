@@ -61,7 +61,7 @@
 |                    |                                                                |
 |                    |                                                                |
 
-### Guidlines
+### Guidelines
 ---
 
 |    Guidelines       |                     Link                                                 |
