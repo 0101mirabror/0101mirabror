@@ -43,23 +43,7 @@
 
 
 
-### Roadmap
----
 
-
-|     Roadmap        |                      Link                                      |
-|--------------------|----------------------------------------------------------------|
-| Roadmap    |https://github.com/0101mirabror/Roadmap/tree/master|
-|     Django         |     https://github.com/0101mirabror/Roadmap/tree/master/django |
-|     Backend        |     https://github.com/0101mirabror/Roadmap/tree/master/backend|
-|     Github, Gitlab |     https://github.com/0101mirabror/Roadmap/tree/master/django |
-|    SQL, NoSQL, ORM |     https://github.com/0101mirabror/Roadmap/tree/master/django |
-|       GoLang       |     https://github.com/0101mirabror/Roadmap/tree/master/golang/golang |
-|                    |                                                                |
-|                    |                                                                |
-|                    |                                                                |
-|                    |                                                                |
-|                    |                                                                |
 
 ### Guidelines
 ---
@@ -73,5 +57,6 @@
 |Frontend|https://github.com/0101mirabror/Frontend/tree/master|
 |REST Framework|https://github.com/0101mirabror/Guideline/tree/master/djangorestframework|
 |Tools|https://github.com/0101mirabror/Tools/tree/master|
+|Roadmap| |
 <!-- https://media.tenor.com/zn8iyusePtgAAAAC/joy.gif
 [!gif](https://media.tenor.com/zn8iyusePtgAAAAC/joy.gif)-->
