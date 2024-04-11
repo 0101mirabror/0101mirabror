@@ -51,7 +51,7 @@
 <!--<a href="https://www.codewars.com/users/Mirabror0158"><img src ='https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey></a>
 <a href="https://www.codewars.com/users/Mirabror0158"><img src ='https://www.codewars.com/users/Mirabror0158/badges/micro?theme=light'></a>-->
 
-### Guidelines
+<!--### Guidelines
 ---
 
 |    Guidelines       |                     Link                                                 |
@@ -63,6 +63,6 @@
 |Frontend|https://github.com/0101mirabror/Frontend/tree/master|
 |REST Framework|https://github.com/0101mirabror/Guideline/tree/master/djangorestframework|
 |Tools|https://github.com/0101mirabror/Tools/tree/master|
-|Roadmap| https://github.com/0101mirabror/Guideline/blob/version1/roadmap.md|
+|Roadmap| https://github.com/0101mirabror/Guideline/blob/version1/roadmap.md|-->
 <!-- https://media.tenor.com/zn8iyusePtgAAAAC/joy.gif
 [!gif](https://media.tenor.com/zn8iyusePtgAAAAC/joy.gif)-->
